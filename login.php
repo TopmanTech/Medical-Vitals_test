@@ -76,6 +76,6 @@ else:
     // Google Login Url = $client->createAuthUrl(); 
 ?>
 
-    <a class="login-btn" href="<?php echo $client->createAuthUrl(); ?>">Login</a>
+    <a class="login-btn" href="<?php echo $client->createAuthUrl(); ?>">Login into Axochech Test</a>
 
 <?php endif; ?>

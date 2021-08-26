@@ -88,7 +88,7 @@ else{
         <div class="_info">
             <h1><?php echo $user['name']; ?></h1>
             <p><?php echo $user['email']; ?></p>
-            <a href="logout.php">Logout</a>
+            <a href="logout.php">Logout of Axocheck test</a>
         </div>
     </div>
 </body>
