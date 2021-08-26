@@ -32,7 +32,7 @@
             "Google_": "src/"
         },
         "classmap": [
-            "Service/"
+            "src/Google/Service/"
         ]
     },
     "extra": {
